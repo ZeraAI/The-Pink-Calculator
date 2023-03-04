@@ -8,3 +8,6 @@ The Pink Calculator is designed specifically for your computer, offering the per
 So why settle for a boring and generic calculator, when you can have the Pink Calculator - a calculator that is not only functional but also a fashion statement. Upgrade your computing experience today and get your hands on this must-have accessory for any discerning computer user.
 
 ![image](https://user-images.githubusercontent.com/43397999/222931662-736ae8f8-3e37-44d0-83f4-b996a8fe93b5.png)
+
+## Try the Pink Calculator here!
+https://thepinkcalculator.netlify.app/
