@@ -96,7 +96,7 @@ function reducer(state, { type, payload }) {
         currentOperand: evaluate(state),
       };
   default:
-  return state;
+  return;
   }
 }
 
@@ -119,7 +119,7 @@ function evaluate({ currentOperand, previousOperand, operation }) {
       computation = prev / current;
       break;
     default:
-      return state;
+      return;
 
   }
 
