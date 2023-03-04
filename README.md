@@ -11,3 +11,7 @@ So why settle for a boring and generic calculator, when you can have the Pink Ca
 
 ## Try the Pink Calculator here!
 https://thepinkcalculator.netlify.app/
+
+### Upcoming goals
+1. Keyboard input
+2. Executable file to work offline
