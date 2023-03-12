@@ -5,7 +5,7 @@ This calculator isn't just a pretty face, it's packed with features to revolutio
 
 The Pink Calculator is designed specifically for your computer, offering the perfect blend of form and function. Its sleek and compact design makes it a stylish addition to your desktop, while its robust construction ensures it will withstand daily use and last for years to come.
 
-So why settle for a boring and generic calculator, when you can have the Pink Calculator - a calculator that is not only functional but also a fashion statement. Upgrade your computing experience today and get your hands on this must-have accessory for any discerning computer user.
+So why settle for a boring and generic calculator, when you can have the Pink Calculator - a calculator that is not only functional but also a fashion statement. Upgrade your computing experience today and get your hands on this must-have accessory for any discerning computer user. https://thepinkcalculator.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/43397999/222931662-736ae8f8-3e37-44d0-83f4-b996a8fe93b5.png)
 
